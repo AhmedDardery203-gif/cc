@@ -1,0 +1,178 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(photo/bg-header-desktop.png);
+    background-repeat: no-repeat;
+}
+
+.logo{
+    text-align: center;
+    margin: 10px;
+}
+#lo{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+.aa{
+    text-align: center;
+}
+.aa p{
+    margin: 10px;
+}
+button{
+    width: 300px;
+    margin: 25px;
+    background-color :rgb(10, 201, 201);
+   padding: 15px;
+   border-radius:50px;
+   cursor:pointer;
+   color: rgb(255, 255, 255);
+   border: 1px solid transparent;
+}
+#b{
+    background-color:rgb(50, 50, 204) ;
+}
+/* ///// */
+
+h1{
+    margin: 15px;
+}
+
+h3{
+    margin: 15px;
+}
+
+
+.ahmed{
+    text-align: center;
+    margin: 100px;
+    
+}
+.computer{
+    width: 150px;
+    height: 200px;
+    float: left;
+}
+
+.screen{
+    margin: 25px;
+    display: flex;
+  
+}
+
+.did{
+    display: block;
+    text-align: start;
+    margin-top: 35px;
+   
+}
+.xz{
+    float: right;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+.qq{
+    margin-bottom: 100px;
+}
+
+.ww{
+ margin-bottom: 100px;
+}
+
+
+.ee{
+    margin-bottom: 250px;
+   }
+
+/*  */
+.mahmoud{
+    overflow: hidden;
+    clear: both;
+    text-align: center;
+   margin-bottom: 70px;   
+}
+
+.poto{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.end{
+text-align: center;
+margin-bottom: 25px;
+}
+
+/*  */
+.pop{
+    margin: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+.zz{
+    float: left;
+}
+
+.xx{
+    float: right;
+}
+.mlml{
+    text-align: center;
+   margin-top: 50px;
+}
+.mlml img{
+    margin: 55px;
+}
+/* 00 */
+.uu{
+    margin-top: 70px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.ll{
+    margin-bottom: 25px;
+}
+
+/* footer */
+
+footer{
+    width: 100hv;
+    height: 20px;
+     margin: 15px;
+     margin-top: 35px;
+     padding: 70px;
+    background-color:#eee;
+    text-align: center; 
+    display: flex;
+  justify-content: space-evenly;
+
+
+
+}
+
+footer img{
+    width: 50px;
+    height:50px;
+    float: left;
+    }
+
+
+p{
+    color:#a5a1a1;
+}
+
+footer .xf img{
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+
+}
+.xf{
+
+    float: right;
+}
+
